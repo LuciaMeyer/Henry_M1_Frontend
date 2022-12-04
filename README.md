@@ -6,11 +6,8 @@ npm test
 ```
 
 
-## Bootcamp Henry Módulo 1 - FRONTEND
-7/3/2022 - 31/3/2022
-
-
-#### Fundamentos de JavaScript
+## Bootcamp Henry Módulo 1 - FUNDAMENTOS JavaScript
+7/3/2022 - 09/04/2022
 
 <div class="hide">
 
